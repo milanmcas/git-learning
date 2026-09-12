@@ -31,3 +31,10 @@ DATABASE CONFIGURATION
 SERVER:10.4.5.80
 PORT:2034
 DATABASE:Emploee_DB
+
+===========================================================
+API CONFIGURATION
+===================================================
+ENDPOINT:MYAPI.COM
+API-KEY:TRGF64ERD
+
