@@ -1,2 +1,18 @@
 PPLICATION:EMPLOYEE MANAGEMENT
 STATUS:RUNNING
+LOGIN:WORKING
+
+
+=========================
+APPLICATION CONFIGURATION
+==========================
+VERSION:1.1
+ENVIRONMENT:production
+
+
+===============
+EMPLOYEE MODULE
+===============
+EMPLOYEE_MODULE:Enabled
+EMPLOYEE_SEARCH:Enabled
+
