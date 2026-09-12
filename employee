@@ -1,3 +1,7 @@
 101, Milan, TL
 102, Priya, MD
+<<<<<<< HEAD
 103, Riya,CD
+=======
+103,riya,gd
+>>>>>>> 3f00695 (Update API configuration)
