@@ -16,3 +16,10 @@ EMPLOYEE MODULE
 EMPLOYEE_MODULE:Enabled
 EMPLOYEE_SEARCH:Enabled
 
+
+============================
+DATABASE CONFIGURATION
+==========================
+SERVER:10.4.5.80
+PORT:2034
+DATABASE:Emploee_DB
